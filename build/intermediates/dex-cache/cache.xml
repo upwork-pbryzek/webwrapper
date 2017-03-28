@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/CTM/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="caec85834d2623dc3832aabf0c6659d2974a5b8c">
-        <dex dex="/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/CTM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9fca85a44ee2e654eb9712e4ca617fb7562e0627/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/CTM/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/CTM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b8ff7de2b880d84630b0760e62cb2407fea5848e/classes.dex" />
+        <dex dex="/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_85b6e9478fcfa9ba46a808541f02a05239dbef8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2758ffe816a2d8c0e7359f2cc63d5fbd8002e4b7">
+        <dex dex="/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f2ced331fdc8a7fe6d5e760423080a291309cfad/classes.dex" />
     </item>
 
 </items>
